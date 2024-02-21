@@ -18,7 +18,6 @@ email: deepjoy2002@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This will be the new version of my homepage at some point
 baseurl: "/" #"test/home/"
-#url: "http://127.0.0.1:4000/"
 url: ""
 twitter_username: none
 github_username:  deepjoydas
