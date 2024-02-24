@@ -1,11 +1,13 @@
 ---
 layout: entitled
-title: Projects and Collaborations
+title: Academic Details
 ---
 
 
 
-### Structured Data Learning with General Similarities (StruDL)
+### Master of Technology (MTech) in Computer Science and Engineering
+#### National Institute of Technology Meghalaya [ 30 Jul 2014 – 30 May 2016 ]
+#### Website: http://www.nitm.ac.in/
 We will systematically investigate similarity-based machine learning with structured data such
 as strings, trees and graphs. While most off-the-shelf machine learning algorithms require data to be
 embedded in a (finite or infinite) dimensional inner product space, most intuitive notions of similarity for
@@ -29,7 +31,9 @@ domain experts.
    - [Nils Kriege (Universität Wien)](https://dm.cs.univie.ac.at/team/person/111520)
 
 
-### Training Alliance for Computational Systems chemistry (TACsy)
+### Bachelor of Technology (BTech) in Computer Science & Engineering
+#### Tezpur University [ 30 Jul 2008 – 30 May 2012 ]
+#### Website: http://www.tezu.ernet.in/
 Many important questions and grand challenges in research, industry, and society involve large and complex networks of
 chemical reactions. Some examples are: studying metabolic networks in humans; planning and optimizing chemical
 synthesis in industry and research labs; modeling the fragmentation process in mass spectrometry; developing personalized
@@ -67,6 +71,15 @@ of competences from computer science and chemistry will further increase their h
    - Fluigent (France)
    - Harvard Medical School (USA)
  - **project home**: [TACsy.eu](https://TACsy.eu)
+
+### Higher Secondary
+#### Kendriya Vidyalaya Laitkor Peak Shillong [ 28 Feb 2006 – 30 Mar 2008 ]
+#### City: Shillong, India
+
+### Matriculation
+#### Vignan's Prabodhananda Prashanti Niketan-Ghatkesar
+#### Hyderabad, India
+
  
 ### Secure and Intelligent Human-Centric Digital Technologies
 The goal of SecInt is to develop the scientific foundations of secure and intelligent human-centric
