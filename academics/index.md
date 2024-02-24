@@ -22,7 +22,7 @@ title: Academic Details
 
 
 - **Thesis Title [31 Dec 2010 – 30 May 2012]**: Major Project on Project entitled "Human Gait Analysis and Recognition using Artificial Neural Networks".
-
+Legendre moment
 - **Minor Project [31 Jul 2011 – 30 Dec 2011]**: Project entitled "Human Gait Analysis and Recognition using Moments"
 
 - **Summer Project [ 31 May 2011 – 30 Jul 2011]**: Project entitled "Implementation of Real-Time Background Subtraction Techniques for Video Surveillance"
