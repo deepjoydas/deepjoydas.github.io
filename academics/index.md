@@ -10,9 +10,9 @@ title: Academic Details
 
 - **Thesis Title [31 Jul 2015 – 30 May 2016]**: Application of Stacked Autoencoders with Softmax Classifier for Assamese Handwriting Recognition, Human Emotion Recognition and Human Gait Recognition
 
-- **Minor Project [31 Dec 2014 – 30 May 2015]**: Project entitled "Human Activity Recognition using Smart-Phone
+- **Minor Project [31 Dec 2014 – 30 May 2015]**: Human Activity Recognition using Smart-Phone Sensors like Accelerometer, GyroScope etc.
 
-- **Mini Project on [31 Jul 2014 – 30 Dec 2014]**: Project entitled "Development of new Cache Replacement Algorithm"
+- **Mini Project on [31 Jul 2014 – 30 Dec 2014]**: Project entitled Development of new Cache Replacement Algorithm
 
 <br>
 
@@ -21,13 +21,10 @@ title: Academic Details
 #### Website: <http://www.tezu.ernet.in>
 
 
-- **Thesis Title [31 Dec 2010 – 30 May 2012]**: Major Project on Project entitled "Human Gait Analysis and Recognition using Artificial Neural Networks".
-Legendre moment
-- **Minor Project [31 Jul 2011 – 30 Dec 2011]**: Project entitled "Human Gait Analysis and Recognition using Moments"
-
-- **Summer Project [ 31 May 2011 – 30 Jul 2011]**: Project entitled "Implementation of Real-Time Background Subtraction Techniques for Video Surveillance"
-
-- **Term Project [ 31 Oct 2010 – 30 Dec 2010 ]**: Database Management System Project entitled "Extra Curricular Activity Information System of the Student of Tezpur University"
+- **Thesis Title [31 Dec 2010 – 30 May 2012]**: Human Gait Analysis and Recognition using Artificial Neural Networks
+- **Minor Project [31 Jul 2011 – 30 Dec 2011]**: Human Gait Analysis and Recognition using with Central Moment, Legendre Moment and Krawtchouk Moment
+- **Summer Project [31 May 2011 – 30 Jul 2011]**: Implementation of Real-Time Background Subtraction Techniques for Video Surveillance
+- **Term Project [31 Oct 2010 – 30 Dec 2010]**: Database Management System Project on "Extra Curricular Activity Information System of the Student of Tezpur University"
 
 <br>
 
