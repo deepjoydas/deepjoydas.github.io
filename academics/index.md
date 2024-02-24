@@ -14,7 +14,7 @@ title: Academic Details
 
 - **Mini Project on [31 Jul 2014 – 30 Dec 2014]**: Project entitled "Development of new Cache Replacement Algorithm"
 
-<br><br>
+<br>
 
 ### Bachelor of Technology (BTech) in Computer Science & Engineering
 #### Tezpur University [ 30 Jul 2008 – 30 May 2012 ]
@@ -29,14 +29,14 @@ title: Academic Details
 
 - **Term Project [ 31 Oct 2010 – 30 Dec 2010 ]**: Database Management System Project entitled "Extra Curricular Activity Information System of the Student of Tezpur University"
 
-<br><br>
+<br>
 
 ### Higher Secondary
 #### Kendriya Vidyalaya Laitkor Peak Shillong [ 28 Feb 2006 – 30 Mar 2008 ]
 #### City: Shillong, India
 #### Website: <https://afsshillong.kvs.ac.in>
 
-<br><br>
+<br>
 
 ### Matriculation
 #### Vignan's Prabodhananda Prashanti Niketan-Ghatkesar [ 28 Feb 2004 – 30 Mar 2006 ]
