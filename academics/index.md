@@ -8,9 +8,7 @@ title: Academic Details
 #### National Institute of Technology Meghalaya [ 30 Jul 2014 – 30 May 2016 ]
 #### Website: <http://www.nitm.ac.in>
 
-Thesis Title:
-
-- **MTech Thesis [31 Jul 2015 – 30 May 2016]**: Application of Stacked Autoencoders with Softmax Classifier for Assamese Handwriting Recognition, Human Emotion Recognition and Human Gait Recognition
+- **Thesis Title [31 Jul 2015 – 30 May 2016]**: Application of Stacked Autoencoders with Softmax Classifier for Assamese Handwriting Recognition, Human Emotion Recognition and Human Gait Recognition
 
 - **Minor Project [31 Dec 2014 – 30 May 2015]**: Project entitled "Human Activity Recognition using Smart-Phone
 
