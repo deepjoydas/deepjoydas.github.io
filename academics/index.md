@@ -8,6 +8,7 @@ title: Academic Details
 ### Master of Technology (MTech) in Computer Science and Engineering
 #### National Institute of Technology Meghalaya [ 30 Jul 2014 – 30 May 2016 ]
 #### Website: http://www.nitm.ac.in/
+<!---
 We will systematically investigate similarity-based machine learning with structured data such
 as strings, trees and graphs. While most off-the-shelf machine learning algorithms require data to be
 embedded in a (finite or infinite) dimensional inner product space, most intuitive notions of similarity for
@@ -28,12 +29,14 @@ domain experts.
  - **ML@TU Wien researchers**: {% include listppl.md ppls="PascalWelke ThomasGaertner" -%}
  - **partners**:
    - [Christoph Flamm (Universität Wien)](https://www.tbi.univie.ac.at/~xtof/)
-   - [Nils Kriege (Universität Wien)](https://dm.cs.univie.ac.at/team/person/111520)
+   - [Nils Kriege (Universität Wien)](https://dm.cs.univie.ac.at/team/person/111520) --->
 
 
 ### Bachelor of Technology (BTech) in Computer Science & Engineering
 #### Tezpur University [ 30 Jul 2008 – 30 May 2012 ]
 #### Website: http://www.tezu.ernet.in/
+
+<!---
 Many important questions and grand challenges in research, industry, and society involve large and complex networks of
 chemical reactions. Some examples are: studying metabolic networks in humans; planning and optimizing chemical
 synthesis in industry and research labs; modeling the fragmentation process in mass spectrometry; developing personalized
@@ -53,6 +56,7 @@ ESRs in this highly interdisciplinary field. Through a carefully designed traini
 industry partners, the ESR will acquire a broad career perspective and a strong set of transferable skills. Their unique blend
 of competences from computer science and chemistry will further increase their high employability.
 
+
  - **funding**: EU Horizon 2020 Marie Skłodowska-Curie Innovative Training Networks (H2020-MSCA-ITN-2020,  101072930)
  - **ML@TU Wien topics**: 
    - Machine Learning for Automated Synthesis Planning
@@ -70,7 +74,7 @@ of competences from computer science and chemistry will further increase their h
    - BASF (Germany)
    - Fluigent (France)
    - Harvard Medical School (USA)
- - **project home**: [TACsy.eu](https://TACsy.eu)
+ - **project home**: [TACsy.eu](https://TACsy.eu) --->
 
 ### Higher Secondary
 #### Kendriya Vidyalaya Laitkor Peak Shillong [ 28 Feb 2006 – 30 Mar 2008 ]
@@ -79,123 +83,3 @@ of competences from computer science and chemistry will further increase their h
 ### Matriculation
 #### Vignan's Prabodhananda Prashanti Niketan-Ghatkesar
 #### Hyderabad, India
-
- 
-### Secure and Intelligent Human-Centric Digital Technologies
-The goal of SecInt is to develop the scientific foundations of secure and intelligent human-centric
-digital technologies. This requires interdisciplinary research, establishing synergies between
-different research fields (Security and Privacy, Machine Learning, and Formal Methods). Research
-highlights brought forward by the synergies across projects include the design of machine learning
-algorithms resistant to adversarial attacks, the design of machine learning algorithms for security and
-privacy analysis, the security analysis of personal medical devices, the design of secure and privacy-
-preserving contact tracing apps, and the enforcement of safety for dynamic robots.
-
- - **funding**: TU Wien Doctoral College
- - **ML@TU Wien topic**: Trustworthy Machine Learning
- - **ML@TU Wien researchers**: {% include listppl.md ppls="PatrickIndri ThomasGaertner" -%}
- - **project home**: [SecInt](https://secint.visp.wien/) 
-
-### AI for Advanced SAR Processing (AI4SAR)
-The usability of Synthetic Aperture Radar (SAR)
-satellite data depends on the correct interpretation of
-the underlying scatter mechanism, where current
-modelling approaches perform poorly or fail. Within the
-proposed project AI4SAR, different state-of-the-art
-artificial intelligence (AI) algorithms based on
-unsupervised, active and knowledge-based learning are
-further developed to find a data-driven solution for this
-impressive challenge. The AI-based separation of
-different scattering mechanisms then allows optimised
-SAR despeckle filtering, interferometric phase
-preservation, SAR-to-optical matching, and in general
-advanced SAR processing. The AI4SAR developments
-will be demonstrated with the help of different use
-cases in the fields of forest monitoring, deformation
-monitoring and ground control point transfer
-
- - **funding**: Austrian Space Applications Programme (FFG, ASAP17)
- - **ML@TU Wien researchers**: {% include listppl_ul.md ppls="AniceJahanjoo MaxThiessen ThomasGaertner" -%}
- - **partners**: 
-   - Earth Observation Data Centre for Water Resources Monitoring GmbH (EODC, PI)  .
-   - Joanneum Research Forschungsgesellschaft mbH
-   - Airbus Defence and Space GmbH
-   
-### ML for Analysis and Design of Bacteriophages
-Antimicrobial resistance (AMR) is a growing problem in many types of bacteria which cause disease (pathogens) in animals
-and humans. Salmonella is an important bacterial pathogen of both, and often causes gastrointestinal infections which may
-sometimes progress to more serious and life-threatening disease. It can spread from infected farm animals to humans
-through the food chain. Intensively farmed food animals such as poultry and pigs are an important source of Salmonella,
-and the use of antibiotics in these animals over many years has been associated with the development of new strains of
-this bacterium which are resistant to antibiotics. This means that infections in animals and humans are more difficult to
-treat, which may result in more serious infections occurring over time, particularly in vulnerable groups such as the elderly,
-or those with poor immunity. There is an urgent need to find alternatives to antibiotics which are more sustainable.
-This project will use laboratory experiments and machine learning to build a comprehensive understanding of how phages infect Salmonella under different conditions.
-
- - **funding**: BBSRC responsive mode (UK)
- - **project**: Using bacteriophage to control Salmonella in pigs
- - **ML@TU Wien researchers**: {% include listppl.md ppls="TamaraDrucks ThomasGaertner" -%}
- - **partners**: 
-   - University of Leicester (PI) 
-   - University of Nottingham
-
-### ML MOOC
-Ziel des Projekts ist es einen qualitativ hochwertigen Pool an Lehreinheiten und Kursen aus
-Informatik-Basiswissen in deutscher Sprache zu entwickeln, der für alle Universitätsstandorte
-nutzbar ist. Eine Umsetzung in deutscher Sprache ermöglicht den Einsatz in allen Bachelorstudien
-und eine Öffnung der Akademischen Lehre an alle interessierte Menschen. An allen Standorten kann
-dadurch ein breites Spektrum an Informatik-Basiswissen auch für eine größere Zahl an
-TeilnehmerInnen angeboten werden. Die einzelnen Partner des Projekts beteiligen sich an jenen
-informatischen Themen, für die sie eine besonders hohe Qualifikation und Reputation haben. Die
-grundlegenden informatischen Themen sollen nicht nur für Informatik-Studien und MINT-Fächer
-geeignet sein, sondern für alle Studien.
-
- - **funding**: BMBWF, Digitale und Soziale Transformation in der Hochschulbildung
- - **ML@TU Wien topic**: Machine Learning MOOC
- - **ML@TU Wien researchers**: {% include listppl.md ppls="DavidPenz ThomasGaertner" -%}
- - **project home**: [eInformatics@Austria](https://www.tuwien.at/einformatics/) 
- - **partners**: [Markus Schedl](http://www.mschedl.eu/) (JKU Linz)
-
-### ML for Biological and Chemical Data
-Our project focuses on Machine Learning and its applications to complex real-world data processing.
-Many real-world data sets, such as biological, chemical or materials science data, have an inherent
-structure and can be modelled as sequences, graphs, or hypergraphs. We are interested, in particular, in
-two interrelated problems: 1) learning unknown underlying structure in data, and 2) learning efficient
-graph representations that leads to more accurate and interpretable models than the state-of-the-art.
-{%- capture ppl -%}
-{{ "TamaraDrucks PatrickIndri MaxThiessen DavidPenz FabianJogl ThomasGaertner" | split:" " | sample:6 | join:" " }}
-{% endcapture %}
-
- - **funding**: WTZ (OeAD, BMBWF, FR 08/2022)
- - **project**: Modelling Complex Structured Real Biological and Chemical Data using Machine Learning
- - **ML@TU Wien researchers**: {% include listppl.md ppls=ppl -%}
- - **partners**: [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska) (Nataliya Sokolovska, Paris, France)
-
-
-
-### ML for Analysis and Design of Molecules and Chemical Reactions
-
- - **funding**: NPIF PhD studentship through the MRC IMPACT Doctoral Training Programme (MR/S502431/1) 
- - **ML@TU Wien researchers**: {% include linked_name.md id="ThomasGaertner" %} 
- - **partners**: 
-   - University of Nottingham
-   - GlaxoSmithKline plc
-
-### ML in ShapeTech
-
- - **project**: Shaping technology: biometric data, collective empowerment and humanization of work (WWTF, ICT20)
- - **ML@TU Wien researchers**: {% include linked_name.md id="AniceJahanjoo" %}
- - **PI**: [Nima TaheriNejad](https://www.ict.tuwien.ac.at/staff/taherinejad/index.html) (TU Wien) 
- 
-
-# Previous Projects 
-
-### ML for Constructing Novel Relational Structures
- - **project**: Learning to construct novel relational structures of a given class with machine learning algorithms (2009-2016)
- - **funding**: Emmy Noether grant from the German Research Foundation (DFG, 149669013) 
- - **host**: University of Bonn
-
-### Effective Well-Behaved Pattern Mining Through Sampling
- - **project**: Data Mining Algorithmen, die mittels direkten Stichprobenziehungen aus dem Musterraum ein effktives und kontrolliertes Laufzeitverhalten aufweisen (2011 – 2017)
- - **funding**: German Research Foundation (DFG, 191169928)
- - **partners**: Stefan Wrobel (University of Bonn)
- - **host**: University of Bonn
