@@ -1,6 +1,6 @@
 ---
 layout: entitled
-title: contact
+title: Contact
 ---
 
 <form action="https://formspree.io/f/xwkypvwj" method="POST">
