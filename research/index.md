@@ -4,7 +4,7 @@ title: Projects and Collaborations
 ---
 
 
-
+<!---
 ### Structured Data Learning with General Similarities (StruDL)
 We will systematically investigate similarity-based machine learning with structured data such
 as strings, trees and graphs. While most off-the-shelf machine learning algorithms require data to be
@@ -186,3 +186,4 @@ graph representations that leads to more accurate and interpretable models than 
  - **funding**: German Research Foundation (DFG, 191169928)
  - **partners**: Stefan Wrobel (University of Bonn)
  - **host**: University of Bonn
+--->
