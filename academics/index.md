@@ -7,7 +7,7 @@ title: Academic Details
 
 ### Master of Technology (MTech) in Computer Science and Engineering
 #### National Institute of Technology Meghalaya [ 30 Jul 2014 – 30 May 2016 ]
-#### Website: http://www.nitm.ac.in/
+#### Website: <http://www.nitm.ac.in>
 <!---
 We will systematically investigate similarity-based machine learning with structured data such
 as strings, trees and graphs. While most off-the-shelf machine learning algorithms require data to be
@@ -34,7 +34,7 @@ domain experts.
 
 ### Bachelor of Technology (BTech) in Computer Science & Engineering
 #### Tezpur University [ 30 Jul 2008 – 30 May 2012 ]
-#### Website: http://www.tezu.ernet.in/
+#### Website: <http://www.tezu.ernet.in>
 
 <!---
 Many important questions and grand challenges in research, industry, and society involve large and complex networks of
@@ -79,7 +79,9 @@ of competences from computer science and chemistry will further increase their h
 ### Higher Secondary
 #### Kendriya Vidyalaya Laitkor Peak Shillong [ 28 Feb 2006 – 30 Mar 2008 ]
 #### City: Shillong, India
+#### Website: <https://afsshillong.kvs.ac.in>
 
 ### Matriculation
 #### Vignan's Prabodhananda Prashanti Niketan-Ghatkesar
 #### Hyderabad, India
+#### Website: <https://vignanschools.org/our-campuses/schools-in-hyderabad/ghatkesar>
