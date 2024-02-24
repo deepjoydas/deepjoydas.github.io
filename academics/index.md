@@ -5,7 +5,7 @@ title: Academic Details
 
 
 ### Master of Technology (MTech) in Computer Science and Engineering
-#### National Institute of Technology Meghalaya [ 30 Jul 2014 – 30 May 2016 ]
+#### National Institute of Technology Meghalaya [31 July 2014 – 30 May 2016]
 #### Website: <http://www.nitm.ac.in>
 
 - **Thesis Title [31 Jul 2015 – 30 May 2016]**: Application of Stacked Autoencoders with Softmax Classifier for Assamese Handwriting Recognition, Human Emotion Recognition and Human Gait Recognition
@@ -17,7 +17,7 @@ title: Academic Details
 <br>
 
 ### Bachelor of Technology (BTech) in Computer Science & Engineering
-#### Tezpur University [ 30 Jul 2008 – 30 May 2012 ]
+#### Tezpur University [31 July 2008 – 30 May 2012]
 #### Website: <http://www.tezu.ernet.in>
 
 
@@ -32,13 +32,13 @@ Legendre moment
 <br>
 
 ### Higher Secondary
-#### Kendriya Vidyalaya Laitkor Peak Shillong [ 28 Feb 2006 – 30 Mar 2008 ]
+#### Kendriya Vidyalaya Laitkor Peak Shillong [28 Feb 2006 – 30 Mar 2008]
 #### City: Shillong, India
 #### Website: <https://afsshillong.kvs.ac.in>
 
 <br>
 
 ### Matriculation
-#### Vignan's Prabodhananda Prashanti Niketan-Ghatkesar [ 28 Feb 2004 – 30 Mar 2006 ]
+#### Vignan's Prabodhananda Prashanti Niketan-Ghatkesar [28 Feb 2004 – 30 Mar 2006]
 #### Hyderabad, India
 #### Website: <https://vignanschools.org/our-campuses/schools-in-hyderabad/ghatkesar>
