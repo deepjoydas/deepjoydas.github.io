@@ -29,8 +29,8 @@ title: Academic Details
 <br>
 
 ### Higher Secondary
-#### Kendriya Vidyalaya Laitkor Peak Shillong [Feb 2006 – Mar 2008]
-#### City: Shillong, India
+#### Kendriya Vidyalaya Laitkor Peak [Feb 2006 – Mar 2008]
+#### Shillong, India
 #### Website: <https://afsshillong.kvs.ac.in>
 
 <br>
