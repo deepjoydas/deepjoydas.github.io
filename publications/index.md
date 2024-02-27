@@ -46,16 +46,14 @@ title: Publications
   - Haywood, A. L., Redshaw, J., Gärtner, T., Taylor, A., Mason, A. M., &#38; Hirst, J. D. (2020). Machine Learning for Chemical Synthesis. In H. M. Cartwright (Ed.), <i>Machine Learning in Chemistry : The Impact of Artificial Intelligence</i> (pp. 169–194). The Royal Society of Chemistry. <a target="_blank" rel="noopener noreferrer" href='https://doi.org/10.1039/9781839160233-00169'>(doi)</a><span class="repositum-link"> (<a target="_blank" rel="noopener noreferrer" href='https://hdl.handle.net/20.500.12708/24729' title='reposiTUm'><i class='fa fa-link' aria-hidden='true'></i>reposiTUm</a>)</span>
  
 --->
-<p align="center">[My Google Scholar Link](https://scholar.google.com/citations?user=6rOovvkAAAAJ&hl=en)
+<p align="center">[My Google Scholar Link](https://scholar.google.com/citations?user=6rOovvkAAAAJ&hl=en)</p>
 
-My Google Scholar Metrics
+| Metric     | All       | Since 2019 |
+|------------|:---------:|:----------:|
+| Citations  | <p align="center">129</p> | <p align="center">72</p> |
+| h-index    | <p align="center">7</p>   | <p align="center">6</p>  |
+| i10-index  | <p align="center">5</p>   | <p align="center">2</p>  |
 
-| Metric    | All | Since 2019 |
-|-----------|-----|------------|
-| Citations | 129 | 72         |
-| h-index   | 7   | 6          |
-| i10-index | 5   | 2          |
-</p>
 
 <h3>Conference Proceedings</h3>  
   - D Das, A Chakraborty (2016) Emotion Recognition from Face Dataset Using Deep Neural Nets <i>International Symposium on Innovations in Intelligent Systems and Applications (INISTA), Sinaia, Romania</i> IEEE. <a target="_blank" rel="noopener noreferrer" href='https://ieeexplore.ieee.org/abstract/document/7571861/'>
