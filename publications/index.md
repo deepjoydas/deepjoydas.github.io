@@ -3,15 +3,21 @@ layout: entitled
 title: Publications
 ---
 [My Google Scholar Link](https://scholar.google.com/citations?user=6rOovvkAAAAJ&hl=en)
+
 <br>
+
 | Metric     | All | Since 2019 |
 |------------|-----|------------|
 | Citations  | 129 | 72         |
 | h-index    | 7   | 6          |
 | i10-index  | 5   | 2          |
+
 <br>
+
 Received a Travel Grant for INISTA 2016 paper presentation in Sinaia, Romania
+
 <br>
+
 <h3>Conference Proceedings</h3>  
 
   - Emotion Recognition from Face Dataset Using Deep Neural Nets <i>International Symposium on Innovations in Intelligent Systems and Applications (INISTA 2016), Sinaia, Romania</i> IEEE. <a target="_blank" rel="noopener noreferrer" href='https://ieeexplore.ieee.org/abstract/document/7571861/'>
