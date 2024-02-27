@@ -56,12 +56,26 @@ title: Publications
 | h-index    | 7   | 6          |
 | i10-index  | 5   | 2          |
 
-<br><br>
+<br>
 
 <h3>Conference Proceedings</h3>  
-  - D Das, A Chakraborty (2016) Emotion Recognition from Face Dataset Using Deep Neural Nets <i>International Symposium on Innovations in Intelligent Systems and Applications (INISTA), Sinaia, Romania</i> IEEE. <a target="_blank" rel="noopener noreferrer" href='https://ieeexplore.ieee.org/abstract/document/7571861/'>
 
-  - D Das, A Chakraborty (2016) Human Gait Recognition using Deep Neural Nets <i>Second International Conference on Information and Communication Technology for Competitive Strategies (ICTCS
-2016), Udaipur </i> ACM-ICPS <a target="_blank" rel="noopener noreferrer" href='https://ieeexplore.ieee.org/abstract/document/7571861/'>
+  - Emotion Recognition from Face Dataset Using Deep Neural Nets <i>International Symposium on Innovations in Intelligent Systems and Applications (INISTA 2016), Sinaia, Romania</i> IEEE. <a target="_blank" rel="noopener noreferrer" href='https://ieeexplore.ieee.org/abstract/document/7571861/'>
+
+  - Human Gait Recognition using Deep Neural Nets <i>Second International Conference on Information and Communication Technology for Competitive Strategies (ICTCS 2016), Udaipur </i> ACM-ICPS <a target="_blank" rel="noopener noreferrer" href='https://ieeexplore.ieee.org/abstract/document/7571861/'>
+
+  - Human Gait Based Gender Identification System Using Hidden Markov Model and Support Vector Machines <i> IEEE International conference on computing communication and automation (ICCCA 2015), Galgotias University, Noida </i> IEEE <a target="_blank" rel="noopener noreferrer" href='https://ieeexplore.ieee.org/abstract/document/7571861/'>
+
+  - Human Gait Classification Using Combined HMM & SVM Hybrid Classifier <i> IEEE International Conference on Electronic Design, Computer Networks & Automated Verification (EDCAV 2015), NIT Meghalaya </i> 
   
-  - Welke, P., Thiessen, M., Jogl, F., &#38; Gärtner, T. (2023). Expectation-Complete Graph Representations with Homomorphisms. In A. Krause, E. Brunskill, K. Cho, B. Engelhardt, S. Sabato, &#38; J. Scarlett (Eds.), <i>Proceedings of the 40th International Conference on Machine Learning</i> (pp. 36910–36925). Proceedings of Machine Learning Research.<span class="repositum-link"> (<a target="_blank" rel="noopener noreferrer" href='https://hdl.handle.net/20.500.12708/188939' title='reposiTUm'><i class='fa fa-link' aria-hidden='true'></i>reposiTUm</a>)</span>
+  - An Approach To Emotion Identification Using Human Gait <i> Springer Fourth International Conference on soft computing for problem solving (SocProS' 2014), NIT Silchar </i>
+  
+  - Human gait analysis and recognition using support vector machines <i> Third International Conference on Soft Computing, Artificial Intelligence and Applications (SCAI 2014) </i>
+  
+  - Implementation and performance evaluation of background subtraction algorithms <i> International Journal on Computational Sciences & Applications (IJCSA 2014) </i>
+  
+  - Performance comparison of online handwriting recognition system for Assamese language based on HMM <i> International Journal of Computer Science & Information Technology 2014 </i>
+  
+  - Online Stroke and Akshara Recognition GUI in Assamese Language Using Hidden Markov Model <i> arXiv preprint arXiv:1407.2390 2014 </i>
+
+  - Gait Analysis and Recognition for Human Identification <i> National Seminar on Advances in Electronics and Allied Science & Technology (NaSAEAST-2013), Gauhati University </i>
