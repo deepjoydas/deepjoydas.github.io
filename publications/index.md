@@ -48,6 +48,6 @@ title: Publications
 --->
 
 <h3>Conference Proceedings</h3>  
-  - D Das, A Chakraborty (2016) Emotion Recognition from Face Dataset Using Deep Neural Nets <i>International Symposium on Innovations in Intelligent Systems and Applications (INISTA), Sinaia, Romania</i> IEEE. <a target="_blank" rel="noopener noreferrer" href='https://ieeexplore.ieee.org/abstract/document/7571861/'></span>
+  - D Das, A Chakraborty (2016) Emotion Recognition from Face Dataset Using Deep Neural Nets <i>International Symposium on Innovations in Intelligent Systems and Applications (INISTA), Sinaia, Romania</i> IEEE. <a target="_blank" rel="noopener noreferrer" href='https://ieeexplore.ieee.org/abstract/document/7571861/'>
   
   - Welke, P., Thiessen, M., Jogl, F., &#38; Gärtner, T. (2023). Expectation-Complete Graph Representations with Homomorphisms. In A. Krause, E. Brunskill, K. Cho, B. Engelhardt, S. Sabato, &#38; J. Scarlett (Eds.), <i>Proceedings of the 40th International Conference on Machine Learning</i> (pp. 36910–36925). Proceedings of Machine Learning Research.<span class="repositum-link"> (<a target="_blank" rel="noopener noreferrer" href='https://hdl.handle.net/20.500.12708/188939' title='reposiTUm'><i class='fa fa-link' aria-hidden='true'></i>reposiTUm</a>)</span>
