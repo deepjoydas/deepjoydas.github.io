@@ -1,6 +1,6 @@
 ---
 layout: entitled
-title: Projects and Collaborations
+title: Research
 ---
 
 
