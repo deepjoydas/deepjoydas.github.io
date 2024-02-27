@@ -3,8 +3,8 @@ layout: entitled
 title: Academic Details
 ---
 
-### Received full scholarship from University of Newcastle Callaghan Campus Australia worth more than 1 CR with monthly stipend of 2200 AUD to pursue PhD in "Machine Learning with Cybersecurity" in Year 2016.
-### Received a job contract from Jacobs University Bremen Germany with monthly salary of 3000 Euros to pursue PhD in the area of Big Data in Year 2016.
+#### Received full scholarship from University of Newcastle Callaghan Campus Australia worth more than 1 CR with monthly stipend of 2200 AUD to pursue PhD in "Machine Learning with Cybersecurity" in Year 2016.
+#### Received a job contract from Jacobs University Bremen Germany with monthly salary of 3000 Euros to pursue PhD in the area of Big Data in Year 2016.
 
 <br>
 
