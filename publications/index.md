@@ -46,7 +46,7 @@ title: Publications
   - Haywood, A. L., Redshaw, J., Gärtner, T., Taylor, A., Mason, A. M., &#38; Hirst, J. D. (2020). Machine Learning for Chemical Synthesis. In H. M. Cartwright (Ed.), <i>Machine Learning in Chemistry : The Impact of Artificial Intelligence</i> (pp. 169–194). The Royal Society of Chemistry. <a target="_blank" rel="noopener noreferrer" href='https://doi.org/10.1039/9781839160233-00169'>(doi)</a><span class="repositum-link"> (<a target="_blank" rel="noopener noreferrer" href='https://hdl.handle.net/20.500.12708/24729' title='reposiTUm'><i class='fa fa-link' aria-hidden='true'></i>reposiTUm</a>)</span>
  
 --->
-[My Google Scholar Link](https://scholar.google.com/citations?user=6rOovvkAAAAJ&hl=en
+[My Google Scholar Link](https://scholar.google.com/citations?user=6rOovvkAAAAJ&hl=en)
 
 <br>
 
