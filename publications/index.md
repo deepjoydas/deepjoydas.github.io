@@ -14,6 +14,8 @@ title: Publications
 
 <br>
 
+Received a Travel Grant for INISTA 2016 paper presentation in Sinaia, Romania
+
 <h3>Conference Proceedings</h3>  
 
   - Emotion Recognition from Face Dataset Using Deep Neural Nets <i>International Symposium on Innovations in Intelligent Systems and Applications (INISTA 2016), Sinaia, Romania</i> IEEE. <a target="_blank" rel="noopener noreferrer" href='https://ieeexplore.ieee.org/abstract/document/7571861/'>
