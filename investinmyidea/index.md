@@ -1,6 +1,6 @@
 ---
 layout: entitled
-title: Ideas for Invest In
+title: Product Ideas
 ---
 
 Elevate Your Company's AI Capabilities: A Unique Investment Opportunity
