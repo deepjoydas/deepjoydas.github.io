@@ -3,7 +3,9 @@ layout: entitled
 title: Academic Details
 ---
 
-### Received full scholarship from University of Newcastle Callaghan Campus Australia worth more than 1 CR with monthly stipend of 2200 AUD to purpuse PhD in Machine Learning with Cybersecutity in Year 2016
+### Received full scholarship from University of Newcastle Callaghan Campus Australia worth more than 1 CR with monthly stipend of 2200 AUD to pursue PhD in "Machine Learning with Cybersecurity" in Year 2016
+
+<br>
 
 ### Master of Technology (MTech) in Computer Science and Engineering
 #### National Institute of Technology Meghalaya [July 2014 – May 2016]
