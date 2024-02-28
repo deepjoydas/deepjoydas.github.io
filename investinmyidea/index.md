@@ -15,6 +15,8 @@ This is your opportunity to be at the forefront of AI innovation. By collaborati
 
 Let's embark on this journey together and turn visionary ideas into tangible realities. Reach out to me to explore how we can drive technological advancement and achieve unparalleled success in the realm of Artificial Intelligence.
 
+Support my work in patreon: [link](patreon.com/deepjoy)
+
 <!---
 ### Structured Data Learning with General Similarities (StruDL)
 We will systematically investigate similarity-based machine learning with structured data such
