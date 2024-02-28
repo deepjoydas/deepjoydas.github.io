@@ -1,6 +1,6 @@
 ---
 layout: entitled
-title: Awards
+title: Awards and Recognition
 ---
 
 <h3>Honours and Awards</h3>  
