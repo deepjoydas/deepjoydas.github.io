@@ -1,22 +1,7 @@
 ---
 layout: entitled
-title: Publications
+title: Awards and Recognition
 ---
-[My Google Scholar Link](https://scholar.google.com/citations?user=6rOovvkAAAAJ&hl=en)
-
-<br>
-
-| Metric     | All | Since 2019 |
-|------------|-----|------------|
-| Citations  | 129 | 72         |
-| h-index    | 7   | 6          |
-| i10-index  | 5   | 2          |
-
-<br>
-
-Received a Travel Grant for INISTA 2016 paper presentation in Sinaia, Romania
-
-<br>
 
 <h3>Conference Proceedings</h3>  
 
