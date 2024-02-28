@@ -18,10 +18,12 @@ title: Contact
   <button class="btn btn-primary btn-lg mt-2" type="submit">Send</button>
 </form>
 
+<br>
+
 <footer class="pt-4 pb-4 text-muted text-center d-print-none">
   <div class="container">
     <div class="my-3">
-      <div class="h4">Deepjoy Das</div>
+      <div class="h4">Social Media</div>
       <div class="footer-nav">
         <nav role="navigation">
           <ul class="nav justify-content-center">
