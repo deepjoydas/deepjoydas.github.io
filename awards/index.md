@@ -1,6 +1,6 @@
 ---
 layout: entitled
-title: Awards and Recognition
+title: Awards
 ---
 
 <h3>Conference Proceedings</h3>  
