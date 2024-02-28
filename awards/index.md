@@ -12,6 +12,9 @@ title: Awards and Recognition
   - Highest Achiever Recognition – NIT Meghalaya Topper in third semester MTech with SGPA: 10
   - Best Innovative Project Award – NIT Meghalaya Nominated for Best Innovative Project Award from the Department of CSE, NIT Meghalaya
 
+<h3>Open Source</h3>
+  - Contributed to Two Open-Source Projects [link](https://github.com/deepjoy2002)
+
 <h3>Memberships</h3>
   - Associate Member of Soft Computing Research Society (SCRS), India
 
