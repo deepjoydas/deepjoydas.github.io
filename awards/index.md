@@ -21,7 +21,7 @@ title: Awards and Recognition
 <h3>Scholarship</h3>
   - GATE (Graduate Aptitude Test in Engineering) Scholarship by Ministry of Human Resource Development [July 2014 - May 2016]
 
-<h3>Technical program committee member/reviewer</h3>
+<h3>Technical Program Committee Member/Reviewer</h3>
   - Reviewer: Journal of Real-Time Image Processing, Impact Factor: 1.968 (2019)
   - Technical Program Committee: Complex Adaptive Systems 2016 Conference Los Angeles, California
   - Technical Program Committee: Complex Adaptive Systems 2015 Conference, San Jose, California
