@@ -13,9 +13,7 @@ title: Academic Details
 #### Website: <http://www.nitm.ac.in>
 
 - **Thesis Title [Jul 2015 – May 2016]**: Application of Stacked Autoencoders with Softmax Classifier for Assamese Handwriting Recognition, Human Emotion Recognition and Human Gait Recognition
-
 - **Minor Project [Dec 2014 – May 2015]**: Human Activity Recognition using Smart-Phone Sensors like Accelerometer, GyroScope etc.
-
 - **Mini Project on [Jul 2014 – Dec 2014]**: Project entitled Development of new Cache Replacement Algorithm
 
 <br>
