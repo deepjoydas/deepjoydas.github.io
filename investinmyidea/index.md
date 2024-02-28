@@ -17,6 +17,8 @@ Let's embark on this journey together and turn visionary ideas into tangible rea
 
 Support my work in patreon: [link](https://patreon.com/deepjoy)
 
+Support my work in paypal: [link](https://www.paypal.me/dasdeepjoy)
+
 <!---
 ### Structured Data Learning with General Similarities (StruDL)
 We will systematically investigate similarity-based machine learning with structured data such
