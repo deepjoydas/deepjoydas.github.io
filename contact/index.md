@@ -20,23 +20,23 @@ title: Contact
 
 <footer class="pt-4 pb-4 text-muted text-center d-print-none">
   <div class="container">
-      <div class="my-3">
-        <div class="h4">Deepjoy Das</div>
-          <div class="footer-nav">
-            <nav role="navigation">
-              <ul class="nav justify-content-center">
-                <li class="nav-item"><a class="nav-link" href="https://twitter.com/deepjoy_" title="Twitter"><i class="fab fa-twitter"></i><span class="menu-title sr-only">Twitter</span></a>
-                </li>
-                <li class="nav-item"><a class="nav-link" href="https://www.facebook.com/deepjoy.das.31945" title="Facebook"><i class="fab fa-facebook"></i><span class="menu-title sr-only">Facebook</span></a>
-                </li>
-                <li class="nav-item"><a class="nav-link" href="https://www.instagram.com/_deepjoy" title="Instagram"><i class="fab fa-instagram"></i><span class="menu-title sr-only">Instagram</span></a>
-                </li>
-              </ul>
-            </nav>
-          </div>
-        </div>
+    <div class="my-3">
+      <div class="h4">Deepjoy Das</div>
+      <div class="footer-nav">
+        <nav role="navigation">
+          <ul class="nav justify-content-center">
+            <li class="nav-item"><a class="nav-link" href="https://twitter.com/deepjoy_" title="Twitter"><i class="fab fa-twitter"></i><span class="menu-title sr-only">Twitter</span></a>
+            </li>
+            <li class="nav-item"><a class="nav-link" href="https://www.facebook.com/deepjoy.das.31945" title="Facebook"><i class="fab fa-facebook"></i><span class="menu-title sr-only">Facebook</span></a>
+            </li>
+            <li class="nav-item"><a class="nav-link" href="https://www.instagram.com/_deepjoy" title="Instagram"><i class="fab fa-instagram"></i><span class="menu-title sr-only">Instagram</span></a>
+            </li>
+          </ul>
+        </nav>
       </div>
+    </div>
   </div>
 </footer>
+
 
 
