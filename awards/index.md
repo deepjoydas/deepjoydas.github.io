@@ -13,7 +13,7 @@ title: Awards and Recognition
   - Best Innovative Project Award – NIT Meghalaya Nominated for Best Innovative Project Award from the Department of CSE, NIT Meghalaya
 
 <h3>Open Source</h3>
-  - Contributed to Two Open-Source Projects [link](https://github.com/deepjoy2002)
+  - Contributed to Two Open-Source Projects [link](https://github.com/deepjoydas)
 
 <h3>Memberships</h3>
   - Associate Member of Soft Computing Research Society (SCRS), India
