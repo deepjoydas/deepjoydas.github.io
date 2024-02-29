@@ -2,6 +2,8 @@
 layout: entitled
 title: Awards and Recognition
 ---
+<h3>Features</h3>
+  - Our work on wearables activity recognition was featured in Mobilize Center, Stanford University on 4th August 2015 by ND Rodriguez, Visiting Scholar, University of California, Santa Cruz
 
 <h3>Honours and Awards</h3>  
   - Best Team Award – Sony Won the best team of the quarter Q2 (October 2020) award from Sony India (Award Value of Rs 4,000)
