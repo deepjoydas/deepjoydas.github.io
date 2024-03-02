@@ -9,9 +9,10 @@ Artificial Intelligence/Machine Learning/Generative AI:
  - [US Pentagon explores AI military uses \| BBC News](https://www.youtube.com/watch?v=5cWqkUfF150){: style="color: blue"}
  - [The race to invest in high-end AI chips \| DW Business](https://www.youtube.com/watch?v=pJcUNxOF0X4){: style="color: blue"}
 
-Computer Science:
+Computer Science and Mathematics:
  - [P vs. NP - The Biggest Unsolved Problem in Computer Science](https://www.youtube.com/watch?v=EHp4FPyajKQ){: style="color: blue"}
  - [What will the P=NP proof look like? | Cal Newport and Lex Fridman](https://www.youtube.com/watch?v=mboxVU5JDgo){: style="color: blue"}
+ - [Millennium Prize Problems](https://www.claymath.org/millennium-problems/){: style="color: blue"}
 
 Finance:
  - [Why AI Will Spark Exponential Economic Growth](https://www.youtube.com/watch?v=rQEh7d-qa38){: style="color: blue"}
