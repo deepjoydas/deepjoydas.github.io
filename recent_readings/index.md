@@ -9,9 +9,9 @@ Artificial Intelligence/Machine Learning/Generative AI:
  - [US Pentagon explores AI military uses \| BBC News](https://www.youtube.com/watch?v=5cWqkUfF150){: style="color: blue"}
  - [The race to invest in high-end AI chips \| DW Business](https://www.youtube.com/watch?v=pJcUNxOF0X4){: style="color: blue"}
 
-Health:
- - [ASUS EndoAim AI Endoscopy System](https://www.youtube.com/watch?v=cbaPwlNejB4){: style="color: blue"}
- - [Gut Health Expert @DrPal - Cravings, Lifestyle, Weight Loss & More](https://www.youtube.com/watch?v=A9OUgk3H4AY){: style="color: blue"}
+Computer Science:
+ - [P vs. NP - The Biggest Unsolved Problem in Computer Science](https://www.youtube.com/watch?v=EHp4FPyajKQ){: style="color: blue"}
+ - [What will the P=NP proof look like? | Cal Newport and Lex Fridman](https://www.youtube.com/watch?v=mboxVU5JDgo){: style="color: blue"}
 
 Finance:
  - [Why AI Will Spark Exponential Economic Growth](https://www.youtube.com/watch?v=rQEh7d-qa38){: style="color: blue"}
@@ -21,6 +21,10 @@ Finance:
 Science:
  - [The Trillion Dollar Equation](https://www.youtube.com/watch?v=A5w-dEgIU1M){: style="color: blue"}
  - [Why It Was Almost Impossible to Make the Blue LED](https://www.youtube.com/watch?v=AF8d72mA41M){: style="color: blue"}
+
+ Health:
+ - [ASUS EndoAim AI Endoscopy System](https://www.youtube.com/watch?v=cbaPwlNejB4){: style="color: blue"}
+ - [Gut Health Expert @DrPal - Cravings, Lifestyle, Weight Loss & More](https://www.youtube.com/watch?v=A9OUgk3H4AY){: style="color: blue"}
 
 Astrology:
  - [Mystery Behind Your Birth? Find Your Soul's Purpose](https://www.youtube.com/watch?v=sbUOo-XbDs0){: style="color: blue"}
