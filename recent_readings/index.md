@@ -9,6 +9,7 @@ In AI/ML/GENAI:
  - US Pentagon explores AI military uses | BBC News [link](https://www.youtube.com/watch?v=5cWqkUfF150)
 
 In Health:
+ - ASUS EndoAim AI Endoscopy System [link](https://www.youtube.com/watch?v=cbaPwlNejB4)
  - Gut Health Expert @DrPal - Cravings, Lifestyle, Weight Loss & More [link](https://www.youtube.com/watch?v=A9OUgk3H4AY)
 
 In Finance:
