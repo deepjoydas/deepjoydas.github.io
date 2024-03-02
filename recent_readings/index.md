@@ -11,7 +11,7 @@ Artificial Intelligence/Machine Learning/Generative AI:
 
 Computer Science and Mathematics:
  - [P vs. NP - The Biggest Unsolved Problem in Computer Science](https://www.youtube.com/watch?v=EHp4FPyajKQ){: style="color: blue"}
- - [What will the P=NP proof look like? | Cal Newport and Lex Fridman](https://www.youtube.com/watch?v=mboxVU5JDgo){: style="color: blue"}
+ - [What will the P=NP proof look like?](https://www.youtube.com/watch?v=mboxVU5JDgo){: style="color: blue"}
  - [Millennium Prize Problems](https://www.claymath.org/millennium-problems/){: style="color: blue"}
  - [The Simplest Math Problem No One Can Solve - Collatz Conjecture](https://www.youtube.com/watch?v=094y1Z2wpJg){: style="color: blue"}
 
