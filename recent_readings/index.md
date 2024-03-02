@@ -14,6 +14,7 @@ In Health:
 
 In Finance:
  - Why AI Will Spark Exponential Economic Growth [link](https://www.youtube.com/watch?v=rQEh7d-qa38)
+ - How AI Is Powering the Future of Financial Services | JPMorgan Chase & Co. [link](https://www.youtube.com/watch?v=KjvQqgMYQeI)
  - India's economy surpasses estimates to grow 8.4% in Oct-Dec quarter [link](https://www.youtube.com/watch?v=3iqrTvExLqU)
 
 In Science:
