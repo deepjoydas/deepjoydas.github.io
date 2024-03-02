@@ -13,6 +13,7 @@ In Health:
  - Gut Health Expert @DrPal - Cravings, Lifestyle, Weight Loss & More [link](https://www.youtube.com/watch?v=A9OUgk3H4AY)
 
 In Finance:
+ - Why AI Will Spark Exponential Economic Growth [link](https://www.youtube.com/watch?v=rQEh7d-qa38)
  - India's economy surpasses estimates to grow 8.4% in Oct-Dec quarter [link](https://www.youtube.com/watch?v=3iqrTvExLqU)
 
 In Science:
