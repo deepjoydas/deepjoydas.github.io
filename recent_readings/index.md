@@ -7,6 +7,7 @@ In AI/ML/GENAI:
  - Groq, Gemma, Sora, Gemini, and Air Canada's chatbot troubles [link](https://www.youtube.com/watch?v=3nF8Z6HgSLQ)
  - DeepMind Gemini 1.5 - An AI That Remembers! [link](https://www.youtube.com/watch?v=oJVwmxTOLd8)
  - US Pentagon explores AI military uses | BBC News [link](https://www.youtube.com/watch?v=5cWqkUfF150)
+ - The race to invest in high-end AI chips | DW Business [link](https://www.youtube.com/watch?v=pJcUNxOF0X4)
 
 In Health:
  - ASUS EndoAim AI Endoscopy System [link](https://www.youtube.com/watch?v=cbaPwlNejB4)
