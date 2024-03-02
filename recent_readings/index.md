@@ -14,6 +14,7 @@ Computer Science and Mathematics:
  - [What will the P=NP proof look like? | Cal Newport and Lex Fridman](https://www.youtube.com/watch?v=mboxVU5JDgo){: style="color: blue"}
  - [Millennium Prize Problems](https://www.claymath.org/millennium-problems/){: style="color: blue"}
  - [The Simplest Math Problem No One Can Solve - Collatz Conjecture](https://www.youtube.com/watch?v=094y1Z2wpJg){: style="color: blue"}
+
 Finance:
  - [Why AI Will Spark Exponential Economic Growth](https://www.youtube.com/watch?v=rQEh7d-qa38){: style="color: blue"}
  - [How AI Is Powering the Future of Financial Services \| JPMorgan Chase & Co.](https://www.youtube.com/watch?v=KjvQqgMYQeI){: style="color: blue"}
