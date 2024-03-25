@@ -4,6 +4,7 @@ title: What I am currently reading
 ---
 
 Artificial Intelligence/Machine Learning/Generative AI:
+ - [Introducing Devin, the first AI software engineer](https://www.youtube.com/watch?v=fjHtjT7GO1c){: style="color: blue"}
  - [Groq, Gemma, Sora, Gemini, and Air Canada's chatbot troubles](https://www.youtube.com/watch?v=3nF8Z6HgSLQ){: style="color: blue"}
  - [DeepMind Gemini 1.5 - An AI That Remembers!](https://www.youtube.com/watch?v=oJVwmxTOLd8){: style="color: blue"}
  - [US Pentagon explores AI military uses \| BBC News](https://www.youtube.com/watch?v=5cWqkUfF150){: style="color: blue"}
