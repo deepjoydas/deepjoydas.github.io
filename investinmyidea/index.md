@@ -17,6 +17,8 @@ Join me in this audacious pursuit of greatness. Together, let us build a legacy 
 
 The office setup will be close to Lokpriya Gopinath Bordoloi International Airport Gwuhati [link](https://maps.app.goo.gl/5xZJK2nsDhVaBKMu7)
 
+Please feel free to setup a virtual or face to face meeting with me.
+
 Support my work in patreon: [link](https://patreon.com/deepjoy)
 
 Support my work in paypal: [link](https://www.paypal.me/dasdeepjoy)
