@@ -3,17 +3,19 @@ layout: entitled
 title: Product Ideas
 ---
 
-Elevate Your Company's AI Capabilities: A Unique Investment Opportunity
+Embark on an extraordinary journey into the future of innovation with me. I stand before you with a vision, a vision that transcends boundaries and transforms possibilities. In the heart of the vibrant Northeast, amidst the lush landscapes and bustling energy of Guwahati, I propose to establish an unparalleled beacon of technological brilliance - an AI Excellence Center.
 
-In the rapidly evolving landscape of Artificial Intelligence, the key to staying ahead is not just innovation, but strategic collaboration. We stand at the precipice of a technological revolution, and I am extending an exclusive invitation to join forces with a venture poised to redefine the industry standards.
+With an unwavering commitment to excellence and a proven track record of over 8 years in pioneering Artificial Intelligence, Computer Vision, Deep Learning, and Generative AI, I am poised to lead this groundbreaking endeavor. Together, we will redefine the landscape of innovation, carving out new pathways in industries that touch every aspect of human life.
 
-My startup is not just about ideas; it's about visionary solutions designed to catapult your company's AI capabilities to unprecedented heights. With a foundation built on cutting-edge research and a commitment to excellence, we are on the brink of pioneering advancements that promise to transform the way businesses operate.
+Imagine a world where sports performance is optimized to its fullest potential, where every supply chain operates with unprecedented efficiency, and where pharmaceutical breakthroughs revolutionize healthcare. These are not mere dreams but tangible realities waiting to be unlocked through the power of AI.
 
-Investing in our venture is more than a financial decision; it's a partnership that will set the pace for the future of Artificial Intelligence. Our product concepts are the result of meticulous analysis and creative ingenuity, offering a glimpse into a future where technology enhances every facet of our lives.
+Within the hallowed halls of our Excellence Center, ideas will flourish, creativity will thrive, and innovation will know no bounds. We will incubate and nurture groundbreaking product ideas that span the spectrum from sports analytics to supply chain optimization and pharmaceutical advancements.
 
-This is your opportunity to be at the forefront of AI innovation. By collaborating with us or investing in our groundbreaking ideas, you will not only accelerate your company's AI team but also play a pivotal role in shaping the future of technology.
+But our journey does not end there. We are not just creating products; we are shaping the future. Our mission extends beyond mere profitability to one of profound impact and societal transformation. Together, we will chart a course towards a brighter tomorrow, where the boundaries of what is possible are continually pushed and the limits of human potential are expanded.
 
-Let's embark on this journey together and turn visionary ideas into tangible realities. Reach out to me to explore how we can drive technological advancement and achieve unparalleled success in the realm of Artificial Intelligence.
+Join me in this audacious pursuit of greatness. Together, let us build a legacy that transcends generations and leaves an indelible mark on the annals of history. With your investment of US $10 million, we will embark on a journey of innovation, ingenuity, and inspiration unlike any other. The future awaits us - let us seize it together, in the heart of Guwahati, where dreams take flight and possibilities are limitless.
+
+The office setup will be close to Lokpriya Gopinath Bordoloi International Airport Gwuhati [link](https://maps.app.goo.gl/5xZJK2nsDhVaBKMu7)
 
 Support my work in patreon: [link](https://patreon.com/deepjoy)
 
