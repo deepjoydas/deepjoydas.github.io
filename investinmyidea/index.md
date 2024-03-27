@@ -21,9 +21,9 @@ Please feel free to setup a virtual or face to face meeting with me.
 
 <br>
 
-Support my entrepreneurship journey by patreon: [link](https://patreon.com/deepjoy)
+Support my entrepreneurship journey by patreon: [link](https://patreon.com/deepjoy){: style="color: blue"}
 
-Support my entrepreneurship journey by paypal: [link](https://www.paypal.me/dasdeepjoy)
+Support my entrepreneurship journey by paypal: [link](https://www.paypal.me/dasdeepjoy){: style="color: blue"}
 
 <!---
 ### Structured Data Learning with General Similarities (StruDL)
