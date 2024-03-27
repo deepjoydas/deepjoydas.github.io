@@ -15,7 +15,7 @@ But our journey does not end there. We are not just creating products; we are sh
 
 Join me in this audacious pursuit of greatness. Together, let us build a legacy that transcends generations and leaves an indelible mark on the annals of history. With your investment of US $10 million, we will embark on a journey of innovation, ingenuity, and inspiration unlike any other. The future awaits us - let us seize it together, in the heart of Guwahati, where dreams take flight and possibilities are limitless.
 
-The office setup will be close to Lokpriya Gopinath Bordoloi International Airport Gwuhati [link](https://maps.app.goo.gl/5xZJK2nsDhVaBKMu7)
+The office setup will be close to Lokpriya Gopinath Bordoloi International Airport Gwuhati [link](https://maps.app.goo.gl/5xZJK2nsDhVaBKMu7){: style="color: blue"}
 
 Please feel free to setup a virtual or face to face meeting with me.
 
