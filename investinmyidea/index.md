@@ -19,9 +19,11 @@ The office setup will be close to Lokpriya Gopinath Bordoloi International Airpo
 
 Please feel free to setup a virtual or face to face meeting with me.
 
-Support my work in patreon: [link](https://patreon.com/deepjoy)
+<br>
 
-Support my work in paypal: [link](https://www.paypal.me/dasdeepjoy)
+Support my entrepreneurship journey by patreon: [link](https://patreon.com/deepjoy)
+
+Support my entrepreneurship journey by paypal: [link](https://www.paypal.me/dasdeepjoy)
 
 <!---
 ### Structured Data Learning with General Similarities (StruDL)
