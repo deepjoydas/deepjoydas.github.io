@@ -1,6 +1,7 @@
 :root{
   --teal: #23373b;
   --whitish: #FEFEFE;
+  --shade: #e8efe9;
   --primary: #0066cc;
   --success: #28a745;
   --warning: #ffc107;
@@ -11,7 +12,7 @@ body {
     margin: 60px auto;
     width: 70%;
     color: var(--teal); 
-    background-color: var(--whiteish);
+    background-color: var(--shade);
   font-family: 'Fira Sans', -apple-system, BlinkMacSystemFont, 'segoe ui', 'helvetica neue', helvetica, ubuntu, roboto, noto, arial, sans-serif;
 }
 
